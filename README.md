@@ -19,5 +19,5 @@ or
 ```    
 or
 ```
-    go run greeter_client/main.go roguexray007
+    go run greeter_client/main.go
 ```
